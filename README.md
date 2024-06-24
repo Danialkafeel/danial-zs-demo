@@ -2,8 +2,8 @@
 This is a project created by the ESaaS Demo Tool. It is based on [https://github.com/adobe/aem-boilerplate](https://github.com/adobe/aem-boilerplate).
 
 ## Environments
-- Preview: https://main--danial-zs-demo--Danialkafeel.hlx.page/
-- Live: https://main--danial-zs-demo--Danialkafeel.hlx.live/
+- Preview: https://main--danial-zs-demo--aemdemos.hlx.page/
+- Live: https://main--danial-zs-demo--aemdemos.hlx.live/
 
 ## Installation
 
